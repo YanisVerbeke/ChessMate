@@ -1,10 +1,8 @@
 ﻿using System;
 namespace Fr.CodingFactory.ChessMate.Pieces
 {
-    public class Reine
+    public class Reine : Piece
     {
-        public Reine()
-        {
-        }
+        
     }
 }

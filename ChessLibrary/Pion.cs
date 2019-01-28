@@ -2,7 +2,7 @@
 
 namespace Fr.CodingFactory.ChessMate.Pieces
 {
-    public class Pion
+    public class Pion : Piece
     {
 
     }

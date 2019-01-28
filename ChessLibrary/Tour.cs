@@ -1,10 +1,8 @@
 ﻿using System;
 namespace Fr.CodingFactory.ChessMate.Pieces
 {
-    public class Tour
+    public class Tour : Piece
     {
-        public Tour()
-        {
-        }
+        
     }
 }

@@ -1,15 +1,14 @@
 ﻿<Properties StartupConfiguration="{5F1AC03F-4023-41A0-BCB9-EB75311ED575}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ChessLibrary/Piece.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChessLibrary/Cavalier.cs">
     <Files>
-      <File FileName="ChessLibrary/Piece.cs" Line="13" Column="1" />
-      <File FileName="ChessMate/Program.cs" Line="1" Column="1" />
-      <File FileName="ChessLibrary/Pion.cs" Line="5" Column="30" />
-      <File FileName="ChessLibrary/Roi.cs" Line="6" Column="9" />
-      <File FileName="ChessLibrary/Reine.cs" Line="6" Column="9" />
       <File FileName="ChessLibrary/Cavalier.cs" Line="5" Column="6" />
-      <File FileName="ChessLibrary/Tour.cs" Line="4" Column="30" />
       <File FileName="ChessLibrary/Fou.cs" Line="6" Column="1" />
       <File FileName="ChessLibrary/Partie.cs" Line="6" Column="8" />
+      <File FileName="ChessLibrary/Piece.cs" Line="13" Column="1" />
+      <File FileName="ChessLibrary/Pion.cs" Line="5" Column="30" />
+      <File FileName="ChessLibrary/Reine.cs" Line="6" Column="9" />
+      <File FileName="ChessLibrary/Roi.cs" Line="5" Column="6" />
+      <File FileName="ChessLibrary/Tour.cs" Line="4" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

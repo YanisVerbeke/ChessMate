@@ -13,7 +13,7 @@ namespace Fr.CodingFactory.ChessMate.Pieces
             int xMove = xA - xD;
             int yMove = yA - yD;
 
-            if ((xMove == 2 && yMove == 1) || (xMove == 2 & yMove == -1) || (xMove == -2 & yMove == 1) || (xMove == -2 & yMove == -1) || (xMove == 1 & yMove == 2) || (xMove == -1 & yMove == 2) || (xMove == 1 & yMove == -2) || (xMove == -1 & yMove == -2) {
+            if ((xMove == 2 && yMove == 1) || (xMove == 2 & yMove == -1) || (xMove == -2 & yMove == 1) || (xMove == -2 & yMove == -1) || (xMove == 1 & yMove == 2) || (xMove == -1 & yMove == 2) || (xMove == 1 & yMove == -2) || (xMove == -1 & yMove == -2)) {
                 return true;
             } else {
                 return false;
